@@ -1,1 +1,1 @@
-# Fine Tuning AraBERT for Sentiment Analysis
+# Arabic Sentiment Analysis and Text Classification (Fine Tuning AraBERT)
