@@ -19,7 +19,6 @@ Sentiment Analysis is to build machine learning models that can determine the to
 | Parameter        | Value |
 | ---------------- | ----- |
 | Batch Size       | 128   |
-| Learning Rate    | 0.01  |
 | Optimizer        | adam  |
 | Number of Epochs | 2     |
 
