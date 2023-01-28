@@ -1,10 +1,5 @@
 # Arabic Sentiment Analysis and Text Classification (Fine Tuning AraBERT)
 Sentiment Analysis is to build machine learning models that can determine the tone (positive, negative, neutral) of the texts (e.g., movie reviews, tweets...). It is one of the most important and standard tasks in NLP. However, Arabic sentiment analysis has not been studied at a level as high as other languages (e.g., English, Chinese, French...). One of the key factors is the lack of high-quality and large-scale training data.
-
-- ### Word Embedidng:
-  - **[fastText](https://fasttext.cc/)** 
-    - Arabic word vectors.
-    - Dimension 150.
     
 - ### Datasets:
   - **[ArSAS](https://homepages.inf.ed.ac.uk/wmagdy/resources.htm)**
