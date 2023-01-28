@@ -15,13 +15,6 @@ Sentiment Analysis is to build machine learning models that can determine the to
     - 94K Hotel Reviews.
     - Rating: 1 to 5.
 
-- ### Hyper parameters:
-| Parameter        | Value |
-| ---------------- | ----- |
-| Batch Size       | 128   |
-| Optimizer        | adam  |
-| Number of Epochs | 2     |
-
 - ### Model & Results:
  
 ![tallip2101-14-f01](https://user-images.githubusercontent.com/45196964/215270340-67d699d1-4f72-43d3-9e0e-f48331c5267b.jpg)
